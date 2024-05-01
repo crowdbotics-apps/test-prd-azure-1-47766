@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-docusign](backend/modules)
 - [react-native-audio-player](modules/audio-player)
 - [django-disqus](backend/modules)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 

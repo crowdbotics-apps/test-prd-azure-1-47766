@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-calendly](backend/modules)
 - [react-native-photo-editing](modules/photo-editing)
 - [django-docusign](backend/modules)
+- [react-native-audio-player](modules/audio-player)
 
 # Getting started: Frontend
 

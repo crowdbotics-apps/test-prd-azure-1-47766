@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "983fff23939fd8e49e2f9ef9b88c725e3efece54e14335814bd900d04bcdcb5a"
+            "sha256": "571b6b9edf5a3efdaab3d3c2f4c5467f73c3319174b862c2dca111202e0be608"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -74,6 +74,10 @@
         "cb-django-calendly": {
             "editable": true,
             "path": "./modules/django_calendly"
+        },
+        "cb-django-disqus": {
+            "editable": true,
+            "path": "./modules/django_disqus"
         },
         "cb-django-docusign": {
             "editable": true,
@@ -846,7 +850,6 @@
             "version": "==2.22"
         },
         "pyjwt": {
-            "extras": [],
             "hashes": [
                 "sha256:57e28d156e3d5c10088e0c68abb90bfac3df82b40a71bd0daa20c65ccd5c23de",
                 "sha256:59127c392cc44c2da5bb3192169a91f429924e17aff6534d70fdc02ab3e04320"
